@@ -1,0 +1,29 @@
+{
+  "brandName": "KRONOS",
+  "modelName": "ASTRUM CHRONO",
+  "tagline": "The Timeless Automatic Watch",
+  "diameter": "42mm",
+  "weight": "146gr",
+  "materials": {
+    "silver": {
+      "label": "Silver Steel",
+      "glossy": "#d5d5d5",
+      "brushed": "#ededed"
+    },
+    "black": {
+      "label": "Deep Black",
+      "glossy": "#6e6e6e",
+      "brushed": "#6a6a6a"
+    },
+    "gold": {
+      "label": "Pure Gold",
+      "glossy": "#ffebc6",
+      "brushed": "#ffebc6"
+    },
+    "roseGold": {
+      "label": "Rose Gold",
+      "glossy": "#fdd8c3",
+      "brushed": "#fde2d2"
+    }
+  }
+}
