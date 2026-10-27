@@ -74,6 +74,7 @@ export async function startWatch(root, signal) {
       project.state.emit(events.INIT_PROJECT);
       project.state.emit(events.ATTACH_PROJECT);
       project.state.emit(events.VIEW_READY_PROJECT);
+      project.state.emit(events.OPEN_PROJECT);
       engine.state.emit(engineEvents.RESIZE, engine.tools.viewport);
       ScrollTrigger.refresh();
     }, root);
