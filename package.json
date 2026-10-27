@@ -7,7 +7,7 @@
     "customize": "node scripts/customize.mjs",
     "build": "next build --webpack",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint src scripts --ext .js,.mjs,.ts,.tsx --max-warnings 0",
     "typecheck": "tsc --noEmit",
     "test": "node scripts/test-interactions.mjs",
     "test:visual": "node scripts/compare-visuals.mjs",
