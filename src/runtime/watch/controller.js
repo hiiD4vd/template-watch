@@ -32,7 +32,6 @@ class SectionsController {
       );
       this.sections[0].isFirstSection = true;
       this.sections[this.sections.length - 1].isLastSection = true;
-      project.state.emit(events.OPEN_PROJECT);
     };
     this.handleScroll = (value) => {
       const targetScroll = window.scrollY;
