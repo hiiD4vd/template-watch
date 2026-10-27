@@ -9,6 +9,7 @@ const assetBaseUrl = (
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  agentRules: false,
   distDir: process.env.NEXT_DIST_DIR || '.next',
   async redirects() {
     return [
