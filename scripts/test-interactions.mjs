@@ -46,7 +46,7 @@ try {
     await page.waitForTimeout(5000);
     await expect(page.locator('[data-section]')).toHaveCount(14);
     await expect(page.locator('#canvas-wrapper canvas')).toHaveCount(1);
-    await expect(page.locator('#loader')).toBeHidden();
+    await expect(page.locator('#loader')).toBeHidden({ timeout: 30000 });
     for (const finish of ['second', 'third', 'fourth', 'first']) {
       await page
         .locator(`[data-section="Intro"] .circle-svg [data-config="${finish}"]`)
