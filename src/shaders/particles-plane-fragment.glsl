@@ -1,0 +1,1 @@
+varying vec2 vUv;uniform float uTime;uniform sampler2D tDiffuse;uniform sampler2D tLastDiffuse;uniform float uOpacity;uniform float uProgress;uniform float uPass;void main(){vec4 color=(texture2D(tDiffuse,vUv));color.rgb*=1.04;color.a-=0.001;color.a*=uOpacity;color.a*=mix(.6,.99*1.-smoothstep(0.5,.6,uProgress),uPass)*smoothstep(.1,.2,uProgress);gl_FragColor=vec4(color);}

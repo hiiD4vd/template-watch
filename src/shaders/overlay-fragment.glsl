@@ -1,0 +1,1 @@
+varying vec2 vUv;uniform float uTime;uniform float uProgress;uniform float uOpenProgress;void main(){float progress=uProgress+uOpenProgress;float yUv=vUv.y+sin(vUv.x*8.+uTime*2.)*0.1;float x=smoothstep(0.,1.-progress,vUv.x)-smoothstep(progress,1.,vUv.x);float y=smoothstep(0.,1.-progress,yUv)-smoothstep(progress,1.,yUv);gl_FragColor=vec4(0.,0.,0.,x*y);}

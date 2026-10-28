@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "project": "watch",
+  "release": "62efcbe56037ab63",
+  "prefix": "templates/watch/releases/62efcbe56037ab63",
+  "baseUrl": "https://cdn.promptedsite.com/templates/watch/releases/62efcbe56037ab63",
+  "totalBytes": 21747942,
+  "files": {
+    "archive/next-default-favicon.ico": {
+      "bytes": 25931,
+      "sha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932",
+      "contentType": "image/x-icon"
+    },
+    "archive/samples/diffuse.jpg": {
+      "bytes": 811694,
+      "sha256": "1996ba3cb2b015fd945dfa31c83b5c471e1658a4ec83c8778e0934bbe9b35bf6",
+      "contentType": "image/jpeg"
+    },
+    "archive/samples/model.glb": {
+      "bytes": 209168,
+      "sha256": "da0ab4644ad128d922100d0e86344284cfe01c89c3b19045b6ca6f43e3d1ac61",
+      "contentType": "model/gltf-binary"
+    },
+    "archive/samples/sunrise.exr": {
+      "bytes": 1452022,
+      "sha256": "789e57947bef371fb76f711851ec9cee3adca2ef3b4f4fbe8e2910461fabe743",
+      "contentType": "image/x-exr"
+    },
+    "branding/favicon.ico": {
+      "bytes": 11484,
+      "sha256": "c1627ee3e277a2b4a556f84ca83a9d7a885e4fe9ef7c53c59cef53d85018c47f",
+      "contentType": "image/x-icon"
+    },
+    "branding/favicon.png": {
+      "bytes": 2760,
+      "sha256": "946a438b990c92ba358cc1fce4b3900b5a6decdcf4f7138f1045149411d18e8f",
+      "contentType": "image/png"
+    },
+    "branding/share-image.webp": {
+      "bytes": 82480,
+      "sha256": "4d69f53eb3e642e914e70f91e004f7c00fc483ddb2c417f9ba8f813a118ba7d0",
+      "contentType": "image/webp"
+    },
+    "environments/metal-detail.exr": {
+      "bytes": 395988,
+      "sha256": "b12b67e6b7bdc749e02401eea8d08805983c3fc205cf1c16f2dcef0c30846392",
+      "contentType": "image/x-exr"
+    },
+    "environments/studio.exr": {
+      "bytes": 1435813,
+      "sha256": "b70a253b421b3ed2f049e26801873381ee9d6449c25d8110a23491e33da51a52",
+      "contentType": "image/x-exr"
+    },
+    "fonts/freight/freight-italic.woff2": {
+      "bytes": 29172,
+      "sha256": "b3021f7609d8e83fb86a98b8ecdb35037484120a94eb820036a4fe413c1a77f7",
+      "contentType": "font/woff2"
+    },
+    "fonts/freight/freight-regular.woff2": {
+      "bytes": 28500,
+      "sha256": "85d04957c6ab6b15656d3ec0ae6a9895ebcf9865fb80308056b01a4ad28da32a",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-black.ttf": {
+      "bytes": 408528,
+      "sha256": "63a5b18a510525939997c1ea96aacf562cde6078281d1913fabb62fe7cbd731c",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-black.woff": {
+      "bytes": 154988,
+      "sha256": "ab0a3761f466c17e247fe991a8600f90389abbed2283f2e6e01126ba80a86cfe",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-black.woff2": {
+      "bytes": 103588,
+      "sha256": "19749d04ad9e1ead21122e5dcc169a1757253fe6ca454ebe5791b35a14557ce9",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-bold.ttf": {
+      "bytes": 407536,
+      "sha256": "0b0beffdec22cd75732cfc2af3cd9f8c9b1f95bacf46352c100b02152e53b6f5",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-bold.woff": {
+      "bytes": 159356,
+      "sha256": "c8279a185082949a6fc7811cdb2679f00d461a6751de8255edd90a4756afa30b",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-bold.woff2": {
+      "bytes": 107232,
+      "sha256": "e127e4452f2ecb20fda375f0dea3a5c7a255e7f5ee6be0a638996658820c9518",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-extrabold.ttf": {
+      "bytes": 408312,
+      "sha256": "0303a8e505b448711868faff2a31907ebe6a679c6249d392424724f674b1f7f7",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-extrabold.woff": {
+      "bytes": 158936,
+      "sha256": "959ae20a98646fdb588ea70c163d3740069f9a3e25590d69d71c7e34c367931a",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-extrabold.woff2": {
+      "bytes": 106860,
+      "sha256": "3dfe89aa89ab19eff20cf5cab375abd701a10619c72e00b4819986a78a17c9c1",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-extralight.ttf": {
+      "bytes": 402356,
+      "sha256": "2f80fd9d01aabca56c485e2724438d0a04765b13092d1fbeb15d3e97391165d0",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-extralight.woff": {
+      "bytes": 156316,
+      "sha256": "3854af433bdd28af0f2945cc36031b17e896f8a805eda98fd106a7eeabef6df0",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-extralight.woff2": {
+      "bytes": 105076,
+      "sha256": "6f299f2ef331b89ece1f194a2f137d9e0144fd3640502aa4b7ca0ccadff9f75f",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-light.ttf": {
+      "bytes": 401928,
+      "sha256": "9f1faf9ce544f93d738d72ff7b89c59cb1b37252f3728dd5f765e71b5b5c1888",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-light.woff": {
+      "bytes": 156056,
+      "sha256": "5687bb4367e86f652d14d950360c95368e1ab1e3f246e9bd75e131b7583124aa",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-light.woff2": {
+      "bytes": 104876,
+      "sha256": "ceb2ae7991a116815b7dfbc2fae4cd593447513e68532e06ffaa3f38649ed7ee",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-medium.ttf": {
+      "bytes": 406312,
+      "sha256": "3216b621ee10fca5c0efab994bf5e1213bb18e4b03b73804e0f474664353ee6b",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-medium.woff": {
+      "bytes": 157864,
+      "sha256": "b4c7d097a4bfbf7f09e0dabd212eeaad072644e3dfae5291c3d1968d6d4c9fd6",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-medium.woff2": {
+      "bytes": 106372,
+      "sha256": "cd7988f9f1f76b16c9fb1f0b3f2bece8098a350b34d8f0b6f233749fdec22b49",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-regular.ttf": {
+      "bytes": 401788,
+      "sha256": "c0874a29bb152f6d2df32d81fd8c7345bce1f74025cf30585bbeb8f8561742d0",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-regular.woff": {
+      "bytes": 149316,
+      "sha256": "df2f819181042908c7c8dcbef029ada37610504312883fe7594331af30e27705",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-regular.woff2": {
+      "bytes": 98432,
+      "sha256": "50714d09a35455d088af79fdc8dc7df0c92f80c3169170abb3e646837c6c1e19",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-semibold.ttf": {
+      "bytes": 407260,
+      "sha256": "b734d8066ad2fdaf6a2267499d6d70e8ede33b662bb618dc92271c2b55a51f06",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-semibold.woff": {
+      "bytes": 159076,
+      "sha256": "5d6663d9ce4cc0a02a88efdc65ea54c82da9075feed58fdc125658ed47e68ebd",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-semibold.woff2": {
+      "bytes": 106768,
+      "sha256": "45c036347255c79a682ea8a89485e4987531fe7a65fdcae14ed7d94cf2bef597",
+      "contentType": "font/woff2"
+    },
+    "fonts/inter/inter-thin.ttf": {
+      "bytes": 402632,
+      "sha256": "aae4ea069bc26c3297bb267711ddc91a6a003c79d96531bf4a54591d43c2c941",
+      "contentType": "font/ttf"
+    },
+    "fonts/inter/inter-thin.woff": {
+      "bytes": 150876,
+      "sha256": "e4c85b4ffba6c6112177e320bb12900b99840597c5cd2353ade5ef272787e787",
+      "contentType": "font/woff"
+    },
+    "fonts/inter/inter-thin.woff2": {
+      "bytes": 98856,
+      "sha256": "78300218b134e3dfb87674f15cf30ae114629977012da3f832e010ce6639b2c3",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-black.ttf": {
+      "bytes": 131832,
+      "sha256": "5c653f98003e15221911cdeaf36058a78818537da54f4f96a9f9fe0a020492b3",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-black.woff": {
+      "bytes": 59708,
+      "sha256": "8ff48ae3fd71ea808f0f9d5382fc12bbde072eba2ba255a1931919591c9878bb",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-black.woff2": {
+      "bytes": 42912,
+      "sha256": "66baded0c00fafc2eab148a1e5859e10cbeeef3ca9136a82756c1bc8cafb1bd6",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-bold.ttf": {
+      "bytes": 154844,
+      "sha256": "3c8fe63875a4232721ca8d27b1dd2e27b643403f309fb7b8c20dd358d5731f97",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-bold.woff": {
+      "bytes": 68016,
+      "sha256": "8a02c5b3a7f5adfbeb507926070f24d1440df4a152d16ea5e29d8f1c1bf4b859",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-bold.woff2": {
+      "bytes": 48404,
+      "sha256": "282cdcf783f3a5b1db1a0a13e136c68d6cdc57e0c97f49c4a862c25168b64f1e",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-light.ttf": {
+      "bytes": 125008,
+      "sha256": "c465f2c47c93a51aefebf07a324ec2649d435f6d1a4c45e49fd99322f5aebe36",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-light.woff": {
+      "bytes": 58904,
+      "sha256": "eaeabf0251f3ff6a583fd1b12c13addd38d4449317de43505f4e3689ed8d2253",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-light.woff2": {
+      "bytes": 42176,
+      "sha256": "71e10b25aec9667ce243b740c99afbbaecc2fbd80e247e366d533d1326b232b4",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-medium.ttf": {
+      "bytes": 126376,
+      "sha256": "a9ae1396fab9f7555e690f8b026ad20d03cd0e1684266abc656fd1fb11024329",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-medium.woff": {
+      "bytes": 57204,
+      "sha256": "e00afbeaccf4b1e451e0cff1e24ff1aca33ddf7f8bd743737cf0bf41d44460cd",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-medium.woff2": {
+      "bytes": 40744,
+      "sha256": "e084a31e4cd48cfa85bbe8b765575dcefa0076982ddc2938aee43a7633329397",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-regular.ttf": {
+      "bytes": 127464,
+      "sha256": "abf6cc26bb0e9e54c53e889e8e9e8c7cc6285e7a7e0f9ffa254baef2d5e472b0",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-regular.woff": {
+      "bytes": 59812,
+      "sha256": "c8f20c13fc331090d0ece04d9fd1640fb3ebb295dff8d9b8457eaf3172555d36",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-regular.woff2": {
+      "bytes": 42828,
+      "sha256": "6bf7b4cd27342916ec2b87a14570304169d50168afdb6e9066f68868e031fcd2",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-semibold.ttf": {
+      "bytes": 133672,
+      "sha256": "79077aa87b7d38d624f99e617c77246c645c1d7a65e03eb1f7a754a227654ef7",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-semibold.woff": {
+      "bytes": 62532,
+      "sha256": "5c6a4346fdfa494b9ae2ad55ce810aef6bc26cfd2336ab42233c59066711bdc9",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-semibold.woff2": {
+      "bytes": 45152,
+      "sha256": "a801bc49ab3b831955539212721ba489bd6d1bdb13faee2953cc4d887a01e622",
+      "contentType": "font/woff2"
+    },
+    "fonts/nekst/nekst-thin.ttf": {
+      "bytes": 122648,
+      "sha256": "ff1a7d77d3ad5d529369a87d0d87747227bcc92e9bc9a87e759f8561d8219ffa",
+      "contentType": "font/ttf"
+    },
+    "fonts/nekst/nekst-thin.woff": {
+      "bytes": 55992,
+      "sha256": "787dc8002b8c1a3c11da215cda4c2516fe7c1f1131f45b2fe4374960871bcd3f",
+      "contentType": "font/woff"
+    },
+    "fonts/nekst/nekst-thin.woff2": {
+      "bytes": 39676,
+      "sha256": "094c65fabb50c2670fdd596fd209a0580f20bae4fbddea140e7b2efdaea3c9d8",
+      "contentType": "font/woff2"
+    },
+    "images/gallery/first_1.webp": {
+      "bytes": 100466,
+      "sha256": "3cf35f13f53b8019f433b6106af2fecb2659c327fab8a66e429570f78f8a7d09",
+      "contentType": "image/webp"
+    },
+    "images/gallery/first_2.webp": {
+      "bytes": 64918,
+      "sha256": "754da06741a6aaef8b39994b9513598dc6e4b459f8796c4a711d705aa0ad208d",
+      "contentType": "image/webp"
+    },
+    "images/gallery/first_3.webp": {
+      "bytes": 115168,
+      "sha256": "31c51af3ec368981929ecc7ed08f27418985323da87f21bc2bc8ab68a682743f",
+      "contentType": "image/webp"
+    },
+    "images/gallery/first_4.webp": {
+      "bytes": 127292,
+      "sha256": "9e04a2a53b0a835f2f37f4d8994044d17b12f0a1b96c8e4c60164b71854cb9d2",
+      "contentType": "image/webp"
+    },
+    "images/gallery/first_5.webp": {
+      "bytes": 104144,
+      "sha256": "209758361d72f1785926cde316dc03003f0e8cdffbd6e580a85e0ddde12adaf5",
+      "contentType": "image/webp"
+    },
+    "images/parts/bezel.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/buckle.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/caseback.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/crown.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/crystal.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/dial.jpg": {
+      "bytes": 3828,
+      "sha256": "63ed5514a54ec68ec707ec2d44866adb1999a91c9371ea0aed73817c70688916",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/hands.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/lugs.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/movement.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "images/parts/strap.jpg": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "contentType": "image/jpeg"
+    },
+    "models/watch.glb": {
+      "bytes": 9008924,
+      "sha256": "453ab66423f7ed5605401e02fb9aea1c8fc024502f4faebfbc9183ca34c0f708",
+      "contentType": "model/gltf-binary"
+    },
+    "textures/noise.png": {
+      "bytes": 104200,
+      "sha256": "f89691c0682ffc12ab438aa22d58b91aaf32934ee770fffb4134388e756d4ca3",
+      "contentType": "image/png"
+    },
+    "textures/particles-gradient.jpg": {
+      "bytes": 590,
+      "sha256": "2ab02a922e780916bf4b7fcef643c63baedf066fad2a0b536318a1f3674bfee8",
+      "contentType": "image/jpeg"
+    }
+  }
+}

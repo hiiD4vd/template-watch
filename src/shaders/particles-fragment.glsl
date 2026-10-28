@@ -1,0 +1,1 @@
+uniform float uOpacity;uniform float uTime;varying float vIndex;varying float vSeed;varying vec3 vPos;varying vec2 vUv;varying float vNormalizedIndex;varying float vPointSize;varying vec3 vColor;void main(){vec2 uv=gl_PointCoord*2.-1.;float dist=length(uv*.5);float opacity=smoothstep(.5,.4,dist);opacity*=1.-smoothstep(8.,20.,vPointSize)*.1;gl_FragColor=vec4(vColor,opacity);}

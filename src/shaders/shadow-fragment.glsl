@@ -1,0 +1,1 @@
+uniform sampler2D tMap;varying vec2 vUv;uniform float uDarknessProgress;uniform float uOpacity;void main(){gl_FragColor.rgb=vec3(1.-texture2D(tMap,vUv).a*.4);gl_FragColor.rgb=mix(vec3(1.),gl_FragColor.rgb,uOpacity);gl_FragColor.a=1.;}
