@@ -24,6 +24,8 @@ The archive contains pre-existing sample media that the Watch page does not use.
 
 Application JavaScript, CSS, JSX icons and GLSL remain source code. They are compiled normally. Media is served directly by the CDN, without a Next.js media proxy. `/favicon.ico` redirects to the CDN icon.
 
+For AI preview environments whose Content Security Policy blocks the R2 domain, the same verified release is available as a [GitHub Release asset](https://github.com/hiiD4vd/template-watch/releases/tag/artifact-assets-62efcbe56037ab63). This distribution copy is intended for companion files inside the preview environment. Production continues to use R2.
+
 ## Administration
 
 Credentials remain outside this repository. Pass the private environment file explicitly to the upload script; Next.js does not load it.
